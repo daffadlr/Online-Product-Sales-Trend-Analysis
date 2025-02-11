@@ -1,4 +1,4 @@
-ales trend analysis using RFM clustering to segment customers and ARIMA for time series forecasting. Processed and visualized large datasets to derive actionable insights for optimizing marketing strategies. 
+Sales trend analysis using RFM clustering to segment customers and ARIMA for time series forecasting. Processed and visualized large datasets to derive actionable insights for optimizing marketing strategies. 
 Implemented data preprocessing, model evaluation, and performance reporting using Python and SQL.
 
 The vgasales.csv file contains a dataset of video game sales across different regions, including North America (NA_Sales), Europe (EU_Sales), Japan (JP_Sales), and other regions (Other_Sales). 
